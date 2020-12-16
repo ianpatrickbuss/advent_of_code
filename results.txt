@@ -1,0 +1,669 @@
+bagMap
+    bright gray => pale aqua,shiny gold,clear olive,dull fuchsia
+    faded cyan => shiny gold
+    muted yellow => clear orange,shiny gold,wavy purple
+    plaid crimson => dim purple,shiny gold,shiny tan,striped silver
+    vibrant aqua => clear maroon,striped silver,shiny gold,faded tomato
+    clear white => dark indigo,dark maroon,striped orange,shiny gold
+    dull gold => wavy olive,posh plum,shiny gold
+    vibrant bronze => dim olive
+    shiny teal => posh green,pale indigo,mirrored purple
+    striped aqua => bright orange
+    clear chartreuse => dotted black,wavy olive
+    light lime => posh silver,clear orange,light olive,dull maroon
+    light olive => striped turquoise
+    shiny purple => posh silver,striped silver,shiny beige,plaid chartreuse
+    mirrored crimson => faded cyan
+    shiny turquoise => dull purple
+    dim red => dim salmon,faded orange,muted aqua
+    vibrant yellow => mirrored white,vibrant blue,mirrored lavender,wavy cyan
+    posh salmon => dull black,striped indigo,muted silver,vibrant crimson
+    pale black => plaid cyan
+    dotted salmon => wavy brown,pale coral,light maroon
+    posh orange => muted green,striped violet
+    dull maroon => clear brown,posh silver,mirrored coral,dim lavender
+    bright lavender => dark chartreuse,mirrored chartreuse,striped orange,striped bronze
+    plaid white => pale aqua
+    posh teal => muted crimson,dark fuchsia,dim black,plaid cyan
+    wavy maroon => dull magenta,dark red,dull green,bright turquoise
+    plaid teal => plaid plum,light magenta
+    plaid plum => striped lime,clear maroon,muted plum
+    muted purple => muted fuchsia,pale tomato
+    dark gold => dim lime,clear orange,drab crimson,faded cyan
+    striped coral => pale aqua,clear silver
+    shiny chartreuse => muted plum,vibrant tomato
+    bright salmon => pale gold,muted gold,dark gray,dull cyan
+    dark crimson => plaid turquoise
+    light coral => muted brown,striped black,dark gray
+    dotted lavender => bright turquoise
+    posh red => muted green
+    dim turquoise => dull chartreuse
+    posh lime => mirrored yellow,striped silver
+    wavy black => striped cyan,wavy red,dotted coral
+    dotted brown => dim gray,plaid tomato
+    mirrored red => posh aqua,dark gray,dark turquoise
+    plaid tan => plaid black,dull fuchsia,plaid plum,dark chartreuse
+    plaid bronze => muted lavender,faded cyan,mirrored chartreuse,dull coral
+    mirrored silver => dull bronze,dim tomato
+    shiny fuchsia => bright maroon,vibrant tomato,posh bronze,striped bronze
+    dotted plum => wavy fuchsia
+    dim bronze => shiny red,dotted chartreuse
+    faded crimson => bright olive,dark bronze,drab crimson
+    striped blue => drab blue
+    posh purple => bright blue,light black,dotted violet
+    shiny lavender => mirrored bronze
+    dull beige => wavy chartreuse
+    dim blue => bright magenta,muted red
+    pale yellow => dotted white
+    mirrored blue => striped tan
+    mirrored turquoise => plaid red,muted red,muted green
+    faded fuchsia => wavy tomato,vibrant red,dotted green,posh plum
+    drab silver => muted fuchsia,dotted gray,dotted aqua
+    clear teal => shiny maroon,clear green
+    dim brown => faded lavender,striped lime,dark aqua,dark fuchsia
+    muted beige => dim aqua,plaid plum,light white,muted cyan
+    muted blue => bright blue
+    vibrant turquoise => muted crimson
+    mirrored indigo => wavy lime,bright olive,bright black,vibrant violet
+    posh tomato => muted orange,plaid white,shiny tomato,light beige
+    pale green => light black,posh purple,clear chartreuse,drab lime
+    light orange => shiny chartreuse,wavy blue,wavy yellow
+    light green => dark bronze,light tan,dim chartreuse
+    shiny indigo => faded cyan
+    dotted orange => wavy crimson,dull green,dark indigo
+    dotted black => vibrant white
+    plaid gold => mirrored bronze,striped tan
+    muted salmon => dull maroon,vibrant tan,dim purple,dull chartreuse
+    plaid salmon => dotted purple,dim orange
+    bright crimson => plaid maroon,dim aqua,dull magenta,pale tomato
+    dotted fuchsia => dark cyan,striped magenta,clear coral,light purple
+    dull blue => dim magenta,mirrored maroon,dark indigo
+    dull orange => drab blue,shiny beige
+    muted red => clear brown,striped turquoise,dull fuchsia
+    shiny coral => dark olive,light blue
+    drab violet => clear chartreuse,posh orange,pale purple
+    clear blue => dull fuchsia,faded purple,mirrored plum
+    vibrant beige => posh silver
+    bright bronze => shiny yellow,muted green,dark gray
+    light teal => mirrored magenta,faded gray
+    dark green => drab white,drab green,dotted coral,mirrored black
+    plaid silver => dotted bronze
+    drab turquoise => bright white,drab maroon
+    dim magenta => dark fuchsia,drab teal,drab crimson,dull fuchsia
+    dull indigo => bright black,drab lime,light magenta,faded orange
+    dim indigo => dark maroon
+    shiny gold => light black,mirrored yellow,muted plum
+    faded lime => dark crimson,shiny orange,plaid tomato,mirrored cyan
+    striped olive => vibrant red
+    wavy white => posh silver,mirrored gold,pale black
+    dim plum => dotted plum,clear silver,wavy bronze
+    drab cyan => muted plum,dotted bronze,posh violet
+    clear bronze => clear plum,striped plum
+    posh gray => clear chartreuse
+    striped brown => dim olive,light black,vibrant crimson,striped fuchsia
+    wavy tomato => mirrored chartreuse
+    dull white => mirrored brown,dull green
+    vibrant green => drab fuchsia
+    dark tomato => light gray,dull cyan,striped silver,dark fuchsia
+    dim tomato => dark turquoise,mirrored black,posh maroon
+    bright gold => pale aqua,clear tomato,dark yellow,drab green
+    dotted indigo => light purple,plaid coral,pale green
+    plaid magenta => dotted bronze,drab turquoise,dark lime
+    drab gray => dark gray,clear turquoise
+    dim gold => dark maroon
+    dark black => dark violet,dotted cyan
+    posh chartreuse => posh magenta,striped lime
+    wavy beige => drab olive,shiny beige,faded purple
+    plaid green => pale olive,posh bronze,bright tomato
+    dotted blue => posh silver
+    shiny cyan => mirrored turquoise,striped beige,bright silver,light olive
+    dark aqua => plaid black,posh coral,striped magenta,mirrored turquoise
+    drab salmon => striped bronze
+    posh brown => bright white
+    mirrored chartreuse => posh lime,bright blue,clear brown,bright orange
+    clear red => plaid beige,posh brown,shiny aqua
+    wavy olive => clear maroon,striped silver
+    faded green => plaid red,dim olive
+    clear purple => plaid olive,light chartreuse
+    dull lime => dark tan,light chartreuse,vibrant silver
+    dark red => faded orange
+    wavy plum => dull teal,clear maroon,shiny tan
+    dark white => muted red
+    light turquoise => light black
+    pale fuchsia => dim brown,clear purple
+    light maroon => mirrored turquoise
+    striped fuchsia => dotted aqua
+    mirrored magenta => striped white,striped violet,dull maroon,striped indigo
+    dark violet => mirrored black,dotted fuchsia,muted fuchsia
+    muted cyan => muted salmon,drab black,posh green
+    muted tan => posh coral,bright fuchsia
+    faded aqua => striped magenta,dim aqua
+    bright tomato => muted green,light olive
+    clear silver => wavy cyan,bright orange,mirrored coral,light olive
+    vibrant chartreuse => light gray
+    dull olive => mirrored lavender,dotted coral,pale chartreuse,dull coral
+    pale gray => plaid orange
+    wavy lime => bright orange,wavy yellow,light purple,wavy indigo
+    faded white => dotted violet,dark maroon,posh coral
+    muted white => faded magenta
+    wavy brown => vibrant yellow,dull lavender
+    clear violet => shiny tan
+    clear olive => bright fuchsia,dark maroon,mirrored white,shiny beige
+    light beige => mirrored gray,wavy brown,pale blue,striped silver
+    plaid turquoise => vibrant aqua,bright fuchsia
+    posh coral => dark tomato
+    wavy red => posh gray,dim lime,light tan,bright blue
+    wavy fuchsia => vibrant aqua
+    faded turquoise => dark maroon,pale indigo,faded white
+    clear indigo => pale purple,dull green,bright olive
+    vibrant lime => light purple,posh bronze,drab blue,bright black
+    shiny bronze => plaid red
+    vibrant plum => wavy black,drab aqua,dark cyan
+    mirrored fuchsia => bright olive,mirrored crimson,dim salmon
+    bright fuchsia => light gray
+    bright silver => striped tan
+    dotted gray => striped silver,bright black,mirrored yellow
+    dark olive => striped lime,bright black
+    light lavender => dark bronze,faded gold,light orange
+    mirrored green => faded orange
+    faded blue => drab coral,posh salmon
+    vibrant red => bright cyan,light aqua,posh gray,wavy purple
+    dotted yellow => mirrored tan,clear crimson,light turquoise
+    clear orange => pale coral,posh silver,dull fuchsia
+    pale violet => light crimson
+    mirrored beige => bright coral
+    shiny tomato => dotted red,plaid lavender,dim orange
+    muted bronze => striped tan,faded orange,faded maroon,clear tomato
+    muted fuchsia => dark maroon,dotted bronze,mirrored bronze,faded cyan
+    mirrored orange => plaid cyan,wavy orange,shiny aqua,wavy tan
+    light blue => mirrored chartreuse,dim crimson
+    bright turquoise => clear orange
+    dark plum => wavy lime,light tan,light silver,light lime
+    wavy cyan => dull coral,light olive
+    striped cyan => dull lavender
+    drab purple => shiny tomato,bright orange,mirrored gold
+    faded indigo => mirrored indigo,muted silver,faded lime,dim salmon
+    faded orange => plaid chartreuse,bright black,light magenta,wavy bronze
+    wavy gold => shiny orange,clear salmon,plaid orange,vibrant tan
+    wavy blue => clear brown,faded tomato,drab green
+    plaid violet => light blue,drab purple
+    wavy tan => dotted blue
+    drab plum => muted silver,shiny maroon
+    drab fuchsia => muted maroon,mirrored turquoise,clear green,light olive
+    light violet => clear turquoise,mirrored gold,wavy chartreuse,mirrored tan
+    shiny maroon => plaid salmon,pale brown,dim orange,wavy tomato
+    drab crimson => dim gray,dull fuchsia
+    faded plum => striped turquoise,light gray
+    clear beige => faded orange,mirrored black,shiny red,dark teal
+    faded black => mirrored plum,muted plum
+    pale olive => muted yellow,mirrored maroon
+    plaid black => dark gray
+    plaid fuchsia => wavy beige
+    shiny white => posh orange,posh blue,faded white,wavy crimson
+    shiny lime => posh black,mirrored bronze,muted bronze,posh violet
+    shiny magenta => dark lime
+    plaid tomato => wavy cyan,clear brown,dark olive,vibrant white
+    dark blue => mirrored black,pale indigo,dim cyan,light olive
+    muted lavender => dotted purple,drab blue,mirrored bronze,striped violet
+    faded silver => dim orange,shiny chartreuse,drab blue,wavy violet
+    shiny beige => muted green,striped aqua,dim black,dull fuchsia
+    vibrant indigo => pale red,clear lime,vibrant cyan,pale tomato
+    bright red => mirrored lime,dim indigo,bright black,drab crimson
+    dim orange => clear chartreuse,striped tan
+    dull plum => faded aqua,pale salmon,posh gray
+    dull crimson => posh red,mirrored plum,dull fuchsia
+    pale blue => dotted red,muted chartreuse,clear green,wavy beige
+    dotted cyan => faded red,bright gold
+    mirrored lavender => vibrant white,mirrored plum,dotted black,bright orange
+    mirrored tomato => shiny chartreuse,shiny bronze,bright turquoise
+    bright indigo => striped orange,dotted lime,shiny magenta,light fuchsia
+    drab brown => plaid magenta,dim aqua,vibrant aqua
+    posh turquoise => bright tomato,striped tomato,dim turquoise
+    shiny violet => drab gold,plaid silver,vibrant magenta
+    bright green => dull aqua,pale tomato,posh lavender,dim tomato
+    striped tomato => bright salmon
+    shiny black => drab aqua,drab salmon,dim turquoise
+    dotted silver => plaid orange,mirrored tan
+    shiny red => dim lime,posh bronze,striped tomato,vibrant aqua
+    dim green => dotted blue,faded cyan,drab silver,clear blue
+    dull teal => striped orange,bright coral,bright gold
+    posh beige => dark indigo
+    clear green => drab blue,dark maroon
+    faded teal => mirrored maroon,clear cyan,plaid silver
+    plaid maroon => plaid brown
+    light yellow => dotted chartreuse
+    dotted green => clear olive,bright blue,striped indigo,dull indigo
+    vibrant lavender => clear tomato,posh tomato,drab bronze
+    dull red => dark red,bright black
+    dark chartreuse => clear turquoise,clear coral,vibrant magenta
+    clear aqua => mirrored lime
+    posh white => mirrored chartreuse,light purple,muted maroon,pale olive
+    pale cyan => plaid lime,drab salmon
+    mirrored yellow => light olive
+    faded violet => muted red,striped coral,dark chartreuse,vibrant aqua
+    bright lime => muted chartreuse
+    dotted teal => dark orange
+    plaid beige => drab chartreuse,clear orange,dim orange,dotted bronze
+    muted violet => striped crimson,dark gold,muted magenta,vibrant olive
+    dotted turquoise => drab olive,plaid turquoise
+    dim yellow => dotted blue,wavy teal
+    light purple => mirrored yellow
+    wavy turquoise => muted gold,wavy orange,clear tomato,light tan
+    vibrant silver => plaid red,clear turquoise
+    faded brown => faded gray,drab maroon,striped aqua
+    posh indigo => wavy green,dotted blue
+    drab lavender => vibrant indigo,faded black,dull coral,wavy lime
+    vibrant blue => posh purple,dark gold,mirrored lavender
+    posh blue => wavy bronze,dull chartreuse,muted teal,bright black
+    posh aqua => pale gold,faded white
+    bright yellow => wavy coral,drab turquoise
+    wavy lavender => faded red,faded cyan
+    dotted aqua => muted cyan,muted black,wavy chartreuse,shiny magenta
+    vibrant white => muted green,bright tomato
+    posh yellow => mirrored lime,dark fuchsia,posh red,plaid cyan
+    clear gray => wavy magenta,shiny orange
+    clear fuchsia => dull beige,striped turquoise,posh silver
+    shiny tan => drab orange,faded cyan,dark teal
+    faded bronze => shiny aqua
+    pale indigo => plaid turquoise
+    faded tomato => pale brown
+    plaid indigo => dull beige
+    dark salmon => wavy purple,dull indigo,dim blue,dull green
+    bright tan => posh bronze
+    vibrant fuchsia => striped olive,clear yellow,muted fuchsia,shiny plum
+    dark gray => light gray
+    posh magenta => bright blue
+    mirrored bronze => bright olive,light magenta
+    posh cyan => light indigo,dark aqua,mirrored lime,faded magenta
+    light chartreuse => dark indigo,wavy magenta,dim white,plaid bronze
+    bright plum => dotted lime,mirrored red,plaid plum,mirrored gold
+    dark beige => mirrored white,muted plum,mirrored lime,plaid teal
+    light bronze => muted black
+    bright magenta => striped lime
+    dull green => light purple,dull maroon,dotted violet,clear blue
+    drab maroon => bright tomato
+    muted gray => shiny plum,posh fuchsia,plaid black,dim black
+    pale aqua => mirrored plum,dark fuchsia,faded tomato,striped aqua
+    plaid yellow => plaid plum
+    vibrant tan => light gray,bright salmon,pale green,posh gray
+    faded lavender => shiny yellow,dotted black,dotted purple
+    muted aqua => mirrored blue,plaid salmon
+    wavy silver => posh lime,striped tan
+    pale lime => striped orange,plaid turquoise,dark lime,muted cyan
+    dark bronze => clear silver,faded tomato,light olive,bright fuchsia
+    dull gray => clear silver,light purple
+    clear tomato => wavy coral,dim orange,dim magenta
+    dull chartreuse => plaid teal,dotted purple,faded tomato
+    vibrant gold => striped aqua,vibrant cyan,dotted olive,clear olive
+    wavy green => dim lavender
+    posh olive => striped blue,striped beige,dim violet,muted blue
+    vibrant brown => light purple,bright orange
+    faded yellow => dark salmon
+    vibrant teal => vibrant brown,shiny indigo
+    drab black => bright magenta,shiny green
+    mirrored black => posh silver
+    plaid coral => mirrored lavender,drab lime,pale brown,dark maroon
+    pale silver => dim brown,light aqua,shiny lavender
+    dotted coral => dotted bronze,clear violet,vibrant magenta
+    drab indigo => dotted crimson
+    dim salmon => clear green,muted chartreuse
+    vibrant cyan => posh magenta,clear violet
+    muted olive => bright salmon,dark silver
+    drab blue => shiny yellow,clear olive
+    dark brown => muted cyan,posh fuchsia
+    dotted red => posh gray,clear maroon,posh fuchsia,dark white
+    light crimson => dark chartreuse
+    wavy chartreuse => muted red,dull chartreuse,wavy bronze,posh bronze
+    plaid lime => pale white,dull chartreuse,plaid olive,vibrant cyan
+    striped gray => mirrored blue,dark turquoise,clear aqua,drab cyan
+    dotted beige => dull cyan,dull purple,mirrored white,vibrant olive
+    pale turquoise => pale beige,pale olive,wavy coral,light fuchsia
+    muted tomato => vibrant olive,bright purple,pale turquoise,striped coral
+    pale white => dull gold,wavy olive,faded red,plaid teal
+    clear magenta => dark violet,plaid chartreuse,vibrant yellow
+    vibrant tomato => posh lime,drab orange,striped turquoise
+    striped green => dim purple,dotted bronze,bright bronze
+    wavy salmon => shiny lime
+    plaid purple => muted tomato,shiny lavender,light olive
+    clear tan => striped plum,striped fuchsia
+    dull coral => bright orange,faded purple,plaid chartreuse,muted green
+    light tomato => faded tomato,clear chartreuse,plaid black,posh plum
+    dotted lime => bright lavender
+    plaid blue => plaid black
+    dull silver => wavy magenta,mirrored fuchsia,striped salmon
+    dotted maroon => dull cyan,plaid lavender,bright gray
+    bright black => mirrored plum,drab blue,light gray,posh coral
+    pale salmon => bright gray
+    muted chartreuse => mirrored lavender
+    pale lavender => dim black
+    dull fuchsia => bright olive,dull cyan,bright tomato
+    posh fuchsia => striped cyan,shiny purple,muted lavender
+    dull tan => light magenta
+    mirrored olive => clear maroon,bright cyan,vibrant plum
+    plaid chartreuse => pale coral,posh lime,light olive,bright orange
+    muted teal => plaid teal
+    dim violet => striped tomato,dotted fuchsia
+    striped yellow => mirrored brown,faded cyan,clear silver,wavy orange
+    faded salmon => striped coral
+    dim white => clear coral
+    dull violet => striped violet,dotted olive,pale gold,vibrant olive
+    posh plum => bright orange,faded tomato,pale brown,posh silver
+    wavy orange => dull maroon,drab orange,posh plum
+    dotted purple => mirrored white
+    dark indigo => muted green,dark white,drab olive,vibrant tomato
+    shiny silver => pale green
+    shiny crimson => wavy chartreuse,wavy olive
+    dull salmon => plaid plum
+    bright brown => clear tan
+    wavy aqua => dotted tan,bright turquoise,wavy maroon,shiny cyan
+    mirrored cyan => pale green,plaid chartreuse,muted chartreuse,faded purple
+    dark yellow => mirrored crimson,shiny beige,mirrored brown,muted aqua
+    faded gray => wavy cyan,dim olive,wavy gray
+    drab aqua => shiny purple,dim gray,wavy cyan
+    vibrant salmon => light indigo,pale maroon
+    drab yellow => light purple,muted fuchsia,drab blue,muted green
+    dark maroon => posh coral
+    drab orange => bright tomato,faded purple,pale brown
+    dim teal => shiny gray
+    dotted bronze => drab blue,light magenta
+    faded maroon => wavy cyan,pale gold
+    vibrant gray => dull coral,faded lime,mirrored turquoise
+    wavy yellow => striped bronze
+    pale chartreuse => drab blue,bright black,mirrored lavender,dotted magenta
+    posh crimson => mirrored lavender,clear cyan
+    dim coral => posh brown
+    striped crimson => dim gray,light turquoise,wavy bronze,faded orange
+    posh violet => dark teal,posh red,vibrant lime
+    light salmon => plaid salmon
+    plaid red => dull lavender,posh plum,faded cyan,plaid turquoise
+    pale maroon => plaid turquoise,faded maroon,shiny yellow,pale purple
+    striped magenta => posh turquoise,wavy indigo,plaid tomato,dim lavender
+    striped gold => bright brown,dotted crimson,bright olive
+    clear turquoise => wavy teal,muted red
+    mirrored tan => dark yellow,posh coral
+    shiny blue => dull olive,muted brown
+    clear black => wavy teal,plaid chartreuse,dull coral,dark yellow
+    faded gold => muted teal,bright white,striped tan
+    drab tan => faded black,clear olive
+    dark cyan => plaid black,muted aqua,bright fuchsia
+    muted silver => clear olive,striped indigo
+    dim beige => muted tomato,clear fuchsia,faded coral
+    striped red => plaid brown,posh black,dotted gray
+    striped purple => light lavender,dotted brown,dull olive,shiny aqua
+    shiny orange => mirrored brown,wavy bronze,vibrant aqua
+    striped salmon => bright silver
+    shiny olive => pale gold,drab indigo,mirrored salmon,muted gray
+    pale bronze => clear cyan,drab blue,drab bronze,shiny gray
+    plaid aqua => pale yellow,pale black,muted red
+    faded coral => dark bronze,striped silver,clear olive,wavy gray
+    striped bronze => posh orange
+    bright violet => light white,dull olive,drab fuchsia,dim chartreuse
+    wavy bronze => dark tomato,muted red,drab orange
+    pale beige => muted lavender,vibrant aqua,drab lime
+    dim crimson => plaid plum
+    light silver => shiny yellow,dull fuchsia,dark chartreuse,bright orange
+    dark coral => clear indigo,muted gold,pale lime
+    striped plum => plaid white,pale gold,pale yellow,dim orange
+    light tan => dark crimson,clear silver,striped tomato,vibrant magenta
+    shiny brown => bright bronze
+    faded red => dotted bronze
+    dim gray => pale gold,shiny orange
+    mirrored plum => muted plum,posh silver
+    shiny yellow => faded black,light olive
+    posh bronze => posh orange
+    clear lime => mirrored lavender,dark tomato,dim aqua,pale purple
+    drab red => dark tan,shiny maroon,mirrored purple,dotted orange
+    dull purple => striped yellow,faded cyan,pale red,plaid green
+    muted magenta => drab yellow,dark lavender
+    dim fuchsia => pale aqua,mirrored indigo,wavy lime
+    muted black => bright turquoise,plaid cyan,dim cyan
+    dark lime => posh orange
+    drab bronze => pale tomato,light purple,light olive,posh silver
+    posh tan => bright gold
+    dim lavender => mirrored white,posh lime,dark fuchsia
+    muted maroon => bright white,dark salmon,posh gray,posh plum
+    dotted crimson => plaid salmon
+    drab olive => dull lavender,dark tomato
+    wavy crimson => clear orange,dull maroon
+    dark silver => muted red,dim bronze
+    dull magenta => mirrored cyan,mirrored plum,drab olive
+    pale magenta => dark olive,wavy teal
+    vibrant magenta => striped turquoise
+    light brown => clear magenta,light lime
+    drab lime => striped aqua
+    light aqua => dim orange,mirrored brown,vibrant tomato
+    dotted white => faded plum,striped lime
+    muted orange => clear purple,light indigo,plaid bronze
+    dark turquoise => clear cyan
+    striped beige => wavy yellow,clear brown,faded plum,dotted bronze
+    bright chartreuse => dim cyan,faded lavender,muted yellow,dotted turquoise
+    bright beige => vibrant silver,faded bronze,bright lime,plaid lavender
+    pale orange => striped tomato,pale brown,plaid bronze,dark salmon
+    dim black => striped turquoise,plaid chartreuse,posh red,bright tomato
+    plaid olive => dark indigo,dark teal
+    plaid orange => muted plum,dark tomato,dull crimson
+    dark purple => pale beige,pale gold,vibrant blue
+    mirrored salmon => plaid red,dark plum
+    dull lavender => faded white,dim lavender,dull fuchsia
+    posh green => dim orange
+    clear salmon => bright black,dotted plum,striped tomato
+    mirrored violet => wavy black,dotted gold,posh brown
+    faded magenta => vibrant crimson,drab orange,dark gray,striped coral
+    light plum => muted plum
+    dotted tan => wavy gray
+    dim tan => mirrored bronze,drab olive,wavy olive,dark tan
+    striped indigo => drab green,light olive,bright orange
+    vibrant orange => dull fuchsia,shiny violet
+    dim lime => striped silver
+    plaid gray => dark tan,dark magenta,drab black,faded bronze
+    faded chartreuse => clear beige,light beige
+    striped orange => mirrored coral,light gray,mirrored white
+    dim silver => posh coral,dotted bronze,muted yellow,faded gray
+    dotted gold => posh gray
+    dotted olive => faded aqua,faded brown,dim salmon
+    posh maroon => striped aqua,wavy yellow,mirrored crimson
+    dark orange => mirrored fuchsia,light magenta,muted bronze,wavy blue
+    pale purple => dotted blue
+    muted indigo => dark fuchsia,posh fuchsia,plaid turquoise,mirrored cyan
+    faded tan => drab fuchsia,dark beige
+    bright cyan => dotted blue,muted plum,vibrant crimson,dark gold
+    mirrored gray => pale lavender,shiny blue,dark salmon
+    dotted violet => posh red,bright tomato,muted plum
+    pale tan => clear crimson,drab lime
+    dull tomato => drab green,dark crimson
+    wavy coral => light aqua,bright blue,posh gray
+    dull aqua => drab brown
+    dotted magenta => light olive,dark indigo,dotted blue,striped lime
+    plaid cyan => wavy olive,dim black,dotted bronze,striped tomato
+    muted lime => pale turquoise,posh white
+    wavy teal => dim orange
+    muted gold => pale aqua,shiny beige,light olive
+    wavy magenta => wavy purple,wavy tomato
+    dim maroon => plaid red
+    drab green => light gray,clear maroon,dark indigo
+    plaid lavender => drab blue
+    light white => light tan
+    wavy gray => posh coral
+    mirrored teal => clear brown,bright magenta,drab brown,dull gold
+    light black => posh coral,dotted black,posh lime,bright blue
+    shiny gray => dotted blue,striped turquoise,pale aqua,dim black
+    posh lavender => wavy yellow,dotted tan,dull lavender
+    faded beige => posh brown,vibrant indigo,light cyan,clear aqua
+    clear lavender => dull salmon
+    mirrored coral => light olive,clear olive,pale tomato
+    bright white => wavy yellow,wavy bronze,wavy olive,muted red
+    dark lavender => pale tomato,faded white
+    light red => posh turquoise,dull indigo,wavy silver,drab salmon
+    vibrant violet => shiny orange
+    clear gold => drab magenta,plaid tan,vibrant yellow
+    striped white => light salmon,mirrored purple
+    vibrant maroon => striped coral
+    bright olive => light gray,posh silver,bright orange,dark fuchsia
+    mirrored gold => drab black
+    shiny green => posh purple
+    dim aqua => pale gold,dull coral,faded teal,pale yellow
+    dotted tomato => dull salmon
+    faded olive => muted green,drab crimson
+    striped teal => dotted green,muted aqua
+    pale crimson => striped lime,mirrored tan,clear lavender
+    shiny salmon => muted salmon,shiny cyan,faded red,light tan
+    plaid brown => pale orange
+    posh gold => shiny crimson
+    wavy violet => muted olive
+    drab white => posh brown,striped cyan,clear coral
+    light magenta => clear maroon,light gray,dotted black,bright fuchsia
+    bright aqua => plaid cyan,clear black
+    muted green => striped silver,bright orange
+    dim cyan => plaid brown,striped tan
+    vibrant olive => dark yellow
+    dark tan => muted lavender,mirrored turquoise,dim lime,dull olive
+    mirrored brown => pale brown
+    mirrored aqua => mirrored plum,dark maroon
+    clear cyan => dull cyan,dark tomato,pale brown
+    dull yellow => wavy coral,striped tan,muted chartreuse
+    mirrored maroon => plaid tomato,shiny purple,plaid lavender,light gray
+    drab coral => dark turquoise,clear crimson,drab lime,dull crimson
+    muted turquoise => posh purple,dim magenta
+    dull turquoise => striped aqua,light fuchsia,pale turquoise,faded maroon
+    bright maroon => muted red,faded black
+    wavy indigo => shiny beige,dim lavender,striped tan
+    pale red => vibrant brown,faded black,posh turquoise,plaid brown
+    drab teal => faded purple,mirrored blue,vibrant tomato,pale purple
+    faded purple => vibrant white
+    striped maroon => mirrored brown,shiny black,dotted lime
+    dotted chartreuse => dim blue
+    posh black => light aqua,bright orange,plaid plum,plaid fuchsia
+    pale gold => faded tomato,dark tomato,dotted blue
+    muted brown => plaid brown
+    vibrant purple => shiny gray,dull green
+    mirrored purple => bright gray,plaid plum,dotted chartreuse,posh lime
+    bright coral => dim blue
+    dark magenta => muted maroon,dark olive,dull olive
+    pale brown => faded purple,muted green,dark fuchsia
+    drab gold => posh bronze,plaid tomato
+    pale teal => clear turquoise,muted yellow,posh tomato,vibrant orange
+    vibrant black => faded tomato,dim white,drab aqua,vibrant silver
+    dull black => pale yellow,clear aqua,shiny yellow,faded maroon
+    drab tomato => dim purple,plaid fuchsia
+    bright blue => posh silver,dull cyan,light olive,mirrored white
+    muted crimson => bright orange,pale tomato,posh yellow,shiny purple
+    shiny plum => dim turquoise
+    clear maroon => posh red,light olive,dotted purple
+    drab chartreuse => dotted green,dark red
+    dull brown => dim lavender,bright tomato,drab crimson,vibrant tomato
+    wavy purple => dim lavender,plaid plum,dim lime,striped cyan
+    vibrant coral => striped crimson,drab cyan,vibrant yellow,dotted teal
+    clear crimson => dotted purple,faded cyan
+    clear coral => clear chartreuse,bright olive
+    light cyan => shiny violet,dotted blue,drab beige
+    light fuchsia => plaid lavender,dull green,plaid salmon
+    dull bronze => bright magenta,bright black,wavy lime
+    light gold => bright indigo
+    drab magenta => faded fuchsia,dim black,dim crimson,dotted fuchsia
+    mirrored lime => mirrored white,shiny gray
+    dim olive => bright blue,faded tomato
+    striped tan => dark tomato,mirrored coral,mirrored lavender
+    muted coral => pale salmon,faded purple
+    striped violet => dark gray,posh coral,striped turquoise,bright fuchsia
+    clear plum => bright cyan,drab salmon,vibrant brown
+    clear brown => mirrored plum
+    light indigo => drab blue,mirrored chartreuse,muted red,dark beige
+    dim purple => wavy teal
+    clear yellow => clear maroon,bright olive,shiny gray,bright orange
+    pale tomato => dotted violet,dark teal
+    bright teal => shiny maroon,muted indigo
+    pale plum => posh gray,shiny indigo,wavy olive,pale white
+    dark teal => muted plum,faded plum,wavy bronze
+    vibrant crimson => dark tomato,dark white,posh red
+    shiny aqua => pale coral
+    dim chartreuse => wavy teal,mirrored black,mirrored bronze,muted lavender
+    drab beige => faded coral,muted tan,plaid cyan
+    bright purple => muted red,wavy beige,clear coral
+    striped black => light red,plaid chartreuse
+    striped chartreuse => dotted gray,wavy olive,muted lavender
+    striped lavender => dim teal,light blue
+    striped lime => light black,striped turquoise,wavy cyan
+-------
+bags:
+    bright gray
+    faded cyan
+    muted yellow
+    plaid crimson
+    vibrant aqua
+    clear white
+    dull gold
+    mirrored crimson
+    dark gold
+    plaid bronze
+    shiny indigo
+    plaid turquoise
+    wavy fuchsia
+    mirrored fuchsia
+    muted fuchsia
+    pale olive
+    drab brown
+    shiny red
+    dim green
+    posh white
+    faded violet
+    muted violet
+    dotted turquoise
+    vibrant blue
+    wavy lavender
+    shiny tan
+    pale indigo
+    vibrant fuchsia
+    light chartreuse
+    pale lime
+    vibrant teal
+    pale turquoise
+    muted tomato
+    pale white
+    plaid purple
+    dull silver
+    dotted maroon
+    pale salmon
+    striped yellow
+    dark yellow
+    drab yellow
+    plaid red
+    pale maroon
+    mirrored tan
+    clear black
+    dim beige
+    shiny orange
+    pale beige
+    dark coral
+    dim gray
+    dull purple
+    muted magenta
+    muted orange
+    bright chartreuse
+    pale orange
+    dark purple
+    mirrored salmon
+    dim silver
+    posh maroon
+    dark orange
+    muted indigo
+    bright cyan
+    dull aqua
+    muted lime
+    dim maroon
+    mirrored teal
+    vibrant violet
+    pale crimson
+    plaid brown
+    bright aqua
+    dim cyan
+    vibrant olive
+    dull turquoise
+    pale red
+    muted brown
+    mirrored purple
+    pale teal
+    clear crimson
+    muted coral
+    clear plum
+    bright teal
+    pale plum
