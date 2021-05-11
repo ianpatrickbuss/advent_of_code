@@ -18,7 +18,7 @@ const findTheSums = (left: number, right: number, sorted: number[], target: numb
   const sliced = sorted.slice(left,right);
   const answer = sliced.reduce(add);
   if(answer===target) {
-    console.log('fuckyes',sliced.sort((a,b)=>a-b)[0]+sliced.sort((a,b)=>a-b)[sliced.sort((a,b)=>a-b).length])
+    console.log('yes',sliced.sort((a,b)=>a-b)[0]+sliced.sort((a,b)=>a-b)[sliced.sort((a,b)=>a-b).length])
     return sliced;
   }
   if(answer<target){
@@ -40,8 +40,8 @@ const main = async () => {
     if(res.length<1) {
       result = line;
       const sorted = lines;
-      const ahhh = findTheSums(0,1,sorted,result)
-      console.log('fuck',ahhh)
+      const sums = findTheSums(0,1,sorted,result)
+      console.log('sums',sums)
       break;
     }
   }
